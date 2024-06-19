@@ -57,7 +57,7 @@ const getIPByHostname = (hostname, callback) => {
     } else {
       // TODO: If no IP address is found for the given hostname, call the callback with a message
     }
-  });
+  }); 
 };
 
 // Endpoint to store DNS records
