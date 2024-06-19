@@ -1,0 +1,21 @@
+{
+  "name": "dns-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.0",
+    "postman": "^0.2.0",
+    "sqlite3": "^5.1.7"
+  },
+  "type": "commonjs"
+}
